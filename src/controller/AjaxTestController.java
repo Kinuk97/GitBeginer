@@ -71,5 +71,7 @@ public class AjaxTestController extends HttpServlet {
 		list.add(m2);
 		
 		out.println(gson.toJson(list));
+		
+		// 왜 충돌이 안나는가...
 	}
 }
