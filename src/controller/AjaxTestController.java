@@ -51,8 +51,8 @@ public class AjaxTestController extends HttpServlet {
 		
 		// DTO를 이용한 응답
 //		Member mem = new Member();
-//		mem.setId("Apple");
-//		mem.setPw("Banana");
+//		mem.setId("AAAAAApple");
+//		mem.setPw("Baaaaaaaaaaaaaaaanana");
 //		
 //		out.println(gson.toJson(mem));
 		
